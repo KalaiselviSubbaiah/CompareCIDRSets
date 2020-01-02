@@ -20,5 +20,5 @@ CIDR SET SIZE  = 2 <br/>
 
 1)Download as Gradle Project. <br/>
 2)Run PerformAnalysis class Method in com.cidr.perform.analysis package that will out put results for a sample set of     
-    data.<br/>     
+  data.<br/>     
 3)PerformAnalysisTest is a test method in PerformAnalysisTest Class that will run test againt few set of input files. <br/>
