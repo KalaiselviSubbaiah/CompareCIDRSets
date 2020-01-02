@@ -22,7 +22,7 @@ CIDR SET SIZE  = 2 <br/>
 2)Run PerformAnalysis class Method in com.cidr.perform.analysis package that will out put results for a sample set of     
   data.<br/>     
 3)PerformAnalysisTest is a test method in PerformAnalysisTest Class that will run test againt few set of input files. <br/>
-4) Java open Source JDK 11 is used.
+4) Java open Source JDK 11 is used. <br/>
 
-//Data Representation
+//Data Representation <br/>
 1)Range Bar Chart(depicts two values on the X axis at a time — Low and High.) can be used to Map Ip Range of a CIDR in X axis and Y axis Can have CIDR So that adjacent,Contains ,Intersection Can be see, which gives better performance when data is limited,for more or less data the comparison may not be clear.
