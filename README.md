@@ -16,7 +16,7 @@ CIDR SET SIZE  = 2 <br/>
 [ 000 000 000 ] <br/>
 
 
-//Forking to Local Repository: <br/>
+//Forking to Local Repository and Execution: <br/>
 
 1)Download as Gradle Project. <br/>
 2)Run PerformAnalysis class Method in com.cidr.perform.analysis package that will out put results for a sample set of     
