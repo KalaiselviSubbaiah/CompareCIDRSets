@@ -14,7 +14,7 @@ CIDR SET SIZE  = 2 <br/>
 [ 000 000 000 ] <br/>
 [ 000 000 000 ] <br/>
 [ 000 000 000 ] <br/>
-
+6)Test data is available as text file in following path src/main/resources/
 
 //Forking to Local Repository and Execution: <br/>
 
